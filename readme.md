@@ -1,4 +1,4 @@
-# Taloushallinnon Työkansio (perustettu 11.1.2025)
+# Ekonomin muistikirja
 
 Tämä kansio sisältää monipuolisia oppaita ja muistioita eri taloushallinnon osa-alueilta.
 
